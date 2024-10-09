@@ -1,0 +1,18 @@
+{
+    "total_pages": 613,
+    "empty_pages": 22,
+    "header_footer_only_pages": 0,
+    "min_font_size": 6.300000190734863,
+    "max_font_size": 73.0,
+    "average_font_size": 10.790879139643229,
+    "min_lines_on_page": 0,
+    "max_lines_on_page": 101,
+    "average_lines_per_page": 38.443719412724306,
+    "min_font_changes_per_page": 0,
+    "max_font_changes_per_page": 65,
+    "average_font_changes_per_page": 5.057096247960848,
+    "average_words_per_page": 384.45350734094615,
+    "total_font_sizes_collected": 2004,
+    "total_lines_collected": 23566,
+    "total_words_collected": 235670
+}
